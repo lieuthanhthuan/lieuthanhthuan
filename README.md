@@ -1,5 +1,5 @@
 ##  Hey! Nice to see you.
-I'm a Software Engineer, Amateur MC, Amateur Singer, Amateur Guitarist.
+I'm a Senior Software Engineer, Amateur MC, Amateur Singer, Amateur Guitarist.
 
 - 🔭 I’m currently working on KMS Technology
 - 📫 How to reach me: Email: lieuthanthuan@gmail.com
