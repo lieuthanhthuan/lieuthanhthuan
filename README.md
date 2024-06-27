@@ -18,7 +18,7 @@ I'm a Senior Software Engineer, Senior Data Engineer, Amateur MC, Amateur Singer
 - Software Architect Development Program - KMS
 
 # Awards
-- KMS: 2nd Prize in Dev2care Program, rolel: Project Manager
+- KMS: 2nd Prize in Dev2care Program, role: Project Manager
 - KMS: Certificate of Appreciation - In recogition of your significant contribution and passionate speech at Techcon 2022
 - Trobz: Talkie Influencer - In recongition of the most popular influencer at work and Trobz society
 
