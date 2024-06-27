@@ -48,6 +48,35 @@ I'm a Senior Software Engineer, Senior Data Engineer, Amateur MC, Amateur Singer
 - 06/2013 – 08/2014: Software Engineer at Viet Nam Moc Bai Share Holding, HCMC, Vietnam
 
 # Relevant Work Experience
+## KMS Technology
+- Title: Senior Software Engineer
+- Project: Greenphire
+- Project Description:
+  - The goal of the projects is to develop systems to build reports using SSRS, Qlik, Python… and deliver to the end users with various delivery methods like: email, sftp, dropbox…
+  - Building ETL processes using kafka, debezium, jdbc driver to stream data to the downstream databases
+  - Crawling data from websites and verifying Studies
+  - Building new pipelines and connecting to API to verify Addresses, Principal Investigators
+  - Maintain data pipelines
+- Industry: Health Care, Clinical Trials
+- Project Team Size: 6
+- Role(s): Technical Lead
+  
+### Skill Set Utilized:
+- Python
+- PostgreSQL
+- jQuery
+- SSRS
+- SSIS
+- Kafka
+- Airflow
+- KSQL
+  
+### Responsibilities:
+- Consult and decide the technical design for features
+- Review the implementation of features to ensure their correctness
+- Work with Project manager to define the feature release schedule
+Assignment Duration: 42 months
+
 ## 06/2016 – 12/2020     Trobz, HCM City, Vietnam
 - Lead Technical Consultant
 - Project: Scratchpay, MatBao, Canifa, Havang, Scratchpay, Puratos, Manuchar…
@@ -72,7 +101,7 @@ I'm a Senior Software Engineer, Senior Data Engineer, Amateur MC, Amateur Singer
 - Project: KIM CUONG HUNG LOAN Co. LTD
 - Project Description: The goal of the project is to develop an internal system to manage Sales, Manufacturing, Accounting, Warehouse and Marketing. Build the company websites
 - Industry: Jewelry, Manufacturing
-Project Team Size: 4
+- Project Team Size: 4
 - Role(s): ERP Manager
 
 ### Skill Set Utilized:
@@ -80,7 +109,8 @@ Project Team Size: 4
 - JavaScript
 - jQuery
 - PostgreSQL
-Responsibilities:
+  
+### Responsibilities:
 - Research and analyze the business workflows
 - Review and maintain the code quality
 - Maintain and customize modules: warehouse, sales, CRM, MRP, HR
