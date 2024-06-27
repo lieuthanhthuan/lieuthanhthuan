@@ -1,10 +1,26 @@
 ##  Hey! Nice to see you.
-I'm a Senior Software Engineer, Amateur MC, Amateur Singer, Amateur Guitarist.
+I'm a Senior Software Engineer, Senior Data Engineer, Amateur MC, Amateur Singer, Amateur Guitarist.
 
 - 🔭 I’m currently working on KMS Technology
 - 📫 How to reach me: Email: lieuthanthuan@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Amateur Guitarist 
+
+# Certificates
+- [DevOps on AWS: Code, Build, and Test](https://www.coursera.org/account/accomplishments/verify/KEGYGG9V4AWR)
+- [Exam Prep: AWS Certified Cloud Practitioner Foundations](https://www.coursera.org/account/accomplishments/verify/AUVDDDHLQSKH)
+- [Python Project for Data Engineering](https://www.coursera.org/account/accomplishments/verify/R3SHX9UVFJSH)
+- [Introduction to Big Data](https://www.coursera.org/account/accomplishments/verify/VWVBSCQS59WW)
+- [Modern Data Warehouse Analytics in Microsoft Azure](https://www.coursera.org/account/accomplishments/verify/43LP9JHYQ6HA)
+- [Introduction to Information Technology and AWS Cloud](https://www.coursera.org/account/accomplishments/verify/Z3JMZAF3QPN7)
+- CERTIFIED PROJECT MANAGEMENT EXPERT - Fmit
+- Advanced Coaching Skills - A&P
+- Software Architect Development Program - KMS
+
+# Awards
+- KMS: 2nd Prize in Dev2care Program, rolel: Project Manager
+- KMS: Certificate of Appreciation - In recogition of your significant contribution and passionate speech at Techcon 2022
+- Trobz: Talkie Influencer - In recongition of the most popular influencer at work and Trobz society
 
 ## Summary
 - 11 years of experience working in software development with various technologies
@@ -94,6 +110,6 @@ The goal of the project is to develop an internal system to manage Sales, Manufa
 - Mobile develop certificate, Information Technology Center of HCM University of Science, Vietnam (2012)
 - C-language and data structure certificate, Information Technology Center of HCM University of Science, Vietnam (2012)
 - Languages
--   English: Upper-Intermediate
+-   English: Upper-Intermediate, Duolingo English Test's Score: 100 
 -   Vietnamese: Mother- tongue
 
