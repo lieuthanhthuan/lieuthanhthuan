@@ -6,6 +6,12 @@ I'm a Senior Software Engineer, Senior Data Engineer, Amateur MC, Amateur Singer
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Amateur Guitarist 
 
+## Summary
+- 11 years of experience working in software development with various technologies
+- Has solid knowledge of object-oriented analysis, design and implementation following best practice/design pattern as well as data structure
+- 9 years of experience in Python, 11 years of experience in SQL
+- Has experience in analyze, design, develop and maintenance warehousing systems
+
 # Certificates
 - [DevOps on AWS: Code, Build, and Test](https://www.coursera.org/account/accomplishments/verify/KEGYGG9V4AWR)
 - [Exam Prep: AWS Certified Cloud Practitioner Foundations](https://www.coursera.org/account/accomplishments/verify/AUVDDDHLQSKH)
@@ -22,12 +28,7 @@ I'm a Senior Software Engineer, Senior Data Engineer, Amateur MC, Amateur Singer
 - KMS: 2nd Prize in Dev2care Program, role: Project Manager
 - KMS: Certificate of Appreciation - In recogition of your significant contribution and passionate speech at Techcon 2022
 - Trobz: Talkie Influencer - In recongition of the most popular influencer at work and Trobz society
-
-## Summary
-- 11 years of experience working in software development with various technologies
-- Has solid knowledge of object-oriented analysis, design and implementation following best practice/design pattern as well as data structure
-- 9 years of experience in Python, 11 years of experience in SQL
-- Has experience in analyze, design, develop and maintenance warehousing systems
+  
 ## Skills
 - Languages & Scripting: Python, SQL, C#, XML, XSLT, XPath, JavaScript
 - Frameworks: jQuery, ASP.NET, Odoo
