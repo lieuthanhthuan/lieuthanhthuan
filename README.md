@@ -13,9 +13,10 @@ I'm a Senior Software Engineer, Senior Data Engineer, Amateur MC, Amateur Singer
 - [Introduction to Big Data](https://www.coursera.org/account/accomplishments/verify/VWVBSCQS59WW)
 - [Modern Data Warehouse Analytics in Microsoft Azure](https://www.coursera.org/account/accomplishments/verify/43LP9JHYQ6HA)
 - [Introduction to Information Technology and AWS Cloud](https://www.coursera.org/account/accomplishments/verify/Z3JMZAF3QPN7)
-- CERTIFIED PROJECT MANAGEMENT EXPERT - Fmit
-- Advanced Coaching Skills - A&P
-- Software Architect Development Program - KMS
+- CERTIFIED PROJECT MANAGEMENT EXPERT - [Fmit](https://fmit.vn/)
+- Advanced Coaching Skills - [A&P](https://apconsulting.vn/gioi-thieu/) 
+- Search Inside Your Self - [PACE](https://www.pace.edu.vn/)
+- Software Architect Development Program - [KMS](https://kms-technology.com/)
 
 # Awards
 - KMS: 2nd Prize in Dev2care Program, role: Project Manager
