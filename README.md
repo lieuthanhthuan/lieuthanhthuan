@@ -19,6 +19,8 @@ I'm a Senior Software Engineer, Senior Data Engineer, Amateur MC, Amateur Singer
 - [Introduction to Big Data](https://www.coursera.org/account/accomplishments/verify/VWVBSCQS59WW)
 - [Modern Data Warehouse Analytics in Microsoft Azure](https://www.coursera.org/account/accomplishments/verify/43LP9JHYQ6HA)
 - [Introduction to Information Technology and AWS Cloud](https://www.coursera.org/account/accomplishments/verify/Z3JMZAF3QPN7)
+- iOS Mobile develop certificate - Information Technology Center of HCM University of Science, Vietnam (2012) https://csc.edu.vn/
+- C-language and data structure certificate -  Information Technology Center of HCM University of Science, Vietnam (2012) https://csc.edu.vn/
 - CERTIFIED PROJECT MANAGEMENT EXPERT - [Fmit](https://fmit.vn/)
 - Advanced Coaching Skills - [A&P](https://apconsulting.vn/gioi-thieu/) 
 - Search Inside Your Self - [PACE](https://www.pace.edu.vn/)
