@@ -50,14 +50,13 @@ I'm a Software Engineer, Amateur MC, Amateur Singer, Amateur Guitarist.
 - Work with Project manager to define the feature release schedule
 - Assignment Duration: 54 months
 
-- 08/2014 – 06/2016      Kim Cuong Hung Loan Co. LTD, HCM City, Vietnam
+# 08/2014 – 06/2016      Kim Cuong Hung Loan Co. LTD, HCM City, Vietnam
 - Project: KIM CUONG HUNG LOAN Co. LTD
 - Project Description: The goal of the project is to develop an internal system to manage Sales, Manufacturing, Accounting, Warehouse and Marketing. Build the company websites
 - Industry: Jewelry, Manufacturing
 Project Team Size: 4
 - Role(s): ERP Manager
 
-  
 ### Skill Set Utilized:
 - Python
 - JavaScript
