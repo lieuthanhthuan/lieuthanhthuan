@@ -30,7 +30,7 @@ I'm a Software Engineer, Amateur MC, Amateur Singer, Amateur Guitarist.
 - 06/2013 – 08/2014: Software Engineer at Viet Nam Moc Bai Share Holding, HCMC, Vietnam
 
 # Relevant Work Experience
-## 06/2016 – Present     Trobz, HCM City, Vietnam
+## 06/2016 – 12/2020     Trobz, HCM City, Vietnam
 - Lead Technical Consultant
 - Project: Scratchpay, MatBao, Canifa, Havang, Scratchpay, Puratos, Manuchar…
 - Project Description:
