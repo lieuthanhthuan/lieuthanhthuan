@@ -13,6 +13,7 @@ I'm a Senior Software Engineer, Senior Data Engineer, Amateur MC, Amateur Singer
 - Has experience in analyze, design, develop and maintenance warehousing systems
 
 # Certificates
+- [WS Cloud Technical Essentials](https://www.coursera.org/account/accomplishments/verify/XGW4UZW2VP7M)
 - [DevOps on AWS: Code, Build, and Test](https://www.coursera.org/account/accomplishments/verify/KEGYGG9V4AWR)
 - [Exam Prep: AWS Certified Cloud Practitioner Foundations](https://www.coursera.org/account/accomplishments/verify/AUVDDDHLQSKH)
 - [Python Project for Data Engineering](https://www.coursera.org/account/accomplishments/verify/R3SHX9UVFJSH)
