@@ -70,70 +70,79 @@ I am a **Senior Software Engineer** and **Senior Data Engineer** with extensive 
 
 ## 🛠️ Relevant Work Experience
 
-### KMS Technology
-- **Title**: Senior Software Engineer
-- **Project**: Greenphire
+### [KMS Technology](https://kms-technology.com) 💻
+- **Title**: Senior Software Engineer  
+- **Project**: [Greenphire](https://www.greenphire.com)  
 - **Project Description**:
-  - Developed systems to build reports using SSRS, Qlik, Python, and delivered them through email, SFTP, Dropbox, etc.
-  - Built ETL processes using Kafka, Debezium, JDBC driver to stream data to downstream databases.
+  - Developed systems to build reports using **SSRS**, **Qlik**, **Python**, and delivered them via email, **SFTP**, **Dropbox**, etc.
+  - Built **ETL** processes using **Kafka**, **Debezium**, **JDBC driver** to stream data to downstream databases.
   - Crawled data from websites and verified studies.
-  - Built new pipelines and connected to APIs to verify addresses and principal investigators.
-  - Maintained data pipelines.
-- **Industry**: Health Care, Clinical Trials
-- **Project Team Size**: 6
-- **Role(s)**: Technical Lead
+  - Developed new pipelines and integrated with **API** to verify addresses and principal investigators.
+  - Maintained data pipelines for scalability and reliability.
+- **Industry**: Health Care, Clinical Trials 🧬  
+- **Project Team Size**: 6 👥  
+- **Role**: Technical Lead  
 - **Skill Set Utilized**:
-  - Python, PostgreSQL, jQuery, SSRS, SSIS, Kafka, Airflow, KSQL
+  - 🐍 Python, 🐘 PostgreSQL, 💻 jQuery, 📊 SSRS, SSIS, ⚙️ Kafka, Airflow, KSQL
 - **Responsibilities**:
-  - Consulted and decided on the technical design for features.
-  - Reviewed feature implementations for correctness.
+  - Led technical design decisions for key features.
+  - Reviewed feature implementations for quality and correctness.
   - Collaborated with the Project Manager to define the feature release schedule.
-- **Assignment Duration**: 42 months
+- **Assignment Duration**: 42 months ⏳
 
-### Trobz, HCM City, Vietnam (06/2016 – 12/2020)
-- **Title**: Lead Technical Consultant
-- **Project**: Scratchpay, MatBao, Canifa, Havang, Puratos, Manuchar, etc.
+---
+
+### [Trobz](https://www.trobz.com) 🏬
+- **Title**: Lead Technical Consultant  
+- **Projects**: Scratchpay, MatBao, Canifa, Havang, Puratos, Manuchar, etc.  
 - **Project Description**:
-  - Developed systems to manage sales, CRM, purchases, merchandise, manufacturing, accounting, warehouse, marketing, and websites.
-- **Industry**: Retail, Manufacturing
-- **Project Team Size**: 6
-- **Role(s)**: Lead Technical Consultant
+  - Developed systems to manage **Sales**, **CRM**, **Purchases**, **Merchandise**, **Manufacturing**, **Accounting**, **Warehouse**, **Marketing**, and **Websites**.
+- **Industry**: Retail, Manufacturing 🏭  
+- **Project Team Size**: 6 👥  
+- **Role**: Lead Technical Consultant  
 - **Skill Set Utilized**:
-  - Python, PostgreSQL, jQuery
+  - 🐍 Python, 🐘 PostgreSQL, 💻 jQuery
 - **Responsibilities**:
-  - Consulted and decided on the technical design for features.
-  - Reviewed feature implementations for correctness.
-  - Collaborated with the Project Manager to define the feature release schedule.
-- **Assignment Duration**: 54 months
+  - Led technical design decisions for key features.
+  - Reviewed feature implementations for quality and correctness.
+  - Worked closely with the Project Manager to schedule feature releases.
+- **Assignment Duration**: 54 months ⏳
 
-### Kim Cuong Hung Loan Co. LTD, HCM City, Vietnam (08/2014 – 06/2016)
-- **Title**: ERP Manager
-- **Project**: KIM CUONG HUNG LOAN Co. LTD
+---
+
+### Kim Cuong Hung Loan Co. LTD 💎
+- **Title**: ERP Manager  
+- **Project**: Kim Cuong Hung Loan Co. LTD  
 - **Project Description**:
-  - Developed an internal system to manage sales, manufacturing, accounting, warehouse, and marketing. Built the company websites.
-- **Industry**: Jewelry, Manufacturing
-- **Project Team Size**: 4
+  - Developed an internal system to manage **Sales**, **Manufacturing**, **Accounting**, **Warehouse**, and **Marketing**. Built company websites.
+- **Industry**: Jewelry, Manufacturing 💍  
+- **Project Team Size**: 4 👥  
+- **Role**: ERP Manager  
 - **Skill Set Utilized**:
-  - Python, JavaScript, jQuery, PostgreSQL
+  - 🐍 Python, 💻 JavaScript, 🐘 PostgreSQL, 💻 jQuery
 - **Responsibilities**:
   - Researched and analyzed business workflows.
   - Reviewed and maintained code quality.
-  - Maintained and customized modules: warehouse, sales, CRM, MRP, HR.
-- **Assignment Duration**: 22 months
+  - Maintained and customized modules for **Warehouse**, **Sales**, **CRM**, **MRP**, and **HR**.
+- **Assignment Duration**: 22 months ⏳
 
-### Viet Nam Moc Bai Share Holding, HCM City, Vietnam (06/2013 – 08/2014)
-- **Title**: Developer
-- **Project**: Viet Nam Moc Bai Share Holding
+---
+
+### Viet Nam Moc Bai Share Holding 🏭
+- **Title**: Developer  
+- **Project**: Viet Nam Moc Bai Share Holding  
 - **Project Description**:
-  - Developed an internal system to manage sales, manufacturing, accounting, and MES.
-- **Industry**: Manufacturing
-- **Project Team Size**: 12
+  - Developed an internal system to manage **Sales**, **Manufacturing**, **Accounting**, and **MES**.
+- **Industry**: Manufacturing 🏗️  
+- **Project Team Size**: 12 👥  
+- **Role**: Developer  
 - **Skill Set Utilized**:
-  - SQL, Oracle, C#, VB6, DevExpress
+  - 💻 SQL, 🐘 Oracle, 💻 C#, 💻 VB6, DevExpress
 - **Responsibilities**:
-  - Designed and developed features for planning and accounting departments.
+  - Designed and developed features for the **Planning** and **Accounting** departments.
   - Supported, fixed bugs, and tuned Oracle Business Suite systems.
-- **Assignment Duration**: 10 months
+- **Assignment Duration**: 10 months ⏳
+
 
 ---
 
