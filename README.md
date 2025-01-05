@@ -1,9 +1,9 @@
 # Hey! Nice to see you 👋
 
-I am a **Senior Software Engineer** and **Senior Data Engineer** with extensive experience in developing and managing complex systems. In addition, I am an **Amateur MC**, **Singer**, and **Guitarist**, bringing a creative and dynamic perspective to both my professional and personal endeavors.
+I am a **Delivery Manager** and **Problem Solver** with extensive experience in developing and managing complex systems. In addition, I am an **Amateur MC**, **Singer**, and **Guitarist**, bringing a creative and dynamic perspective to both my professional and personal endeavors.
 
-- 🔭 I’m currently working at **KMS Technology**
-- 📫 How to reach me: Email: [lieuthanthuan@gmail.com](mailto:lieuthanthuan@gmail.com)
+- 🔭 I’m currently working at **Xboss**
+- 📫 How to reach me: Email: [thuanlieu@xboss.com](mailto:thuanlieu@xboss.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love playing the guitar 🎸
 
