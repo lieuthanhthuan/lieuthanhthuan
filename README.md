@@ -17,8 +17,8 @@ I am a **Delivery Manager** and **Problem Solver** with extensive experience in 
 
 ## 📜 Certifications by Skill
 ### Odoo Certification
-- Odoo 18 Functional Certification
-- https://github.com/lieuthanhthuan/lieuthanhthuan/blob/main/Certification.pdf
+- [** Odoo 18 Functional Certification](https://github.com/lieuthanhthuan/lieuthanhthuan/blob/main/Certification.pdf)
+
 
 ### Cloud Computing & DevOps ☁️💻
 - [**WS Cloud Technical Essentials**](https://www.coursera.org/account/accomplishments/verify/XGW4UZW2VP7M): Comprehensive knowledge of AWS cloud services, infrastructure, and best practices for deploying and managing cloud-based applications.
